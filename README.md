@@ -12,7 +12,7 @@ I love entrepreneurship, art and philosophy.
 
 I am building the best community for Latam developers called Code Agora.
 
-I am from Bolivia :bolivia: and I graduated with honors from (Universidad Privada Boliviana)[https://www.upb.edu/]
+I am from Bolivia :bolivia: and I graduated with honors from [Universidad Privada Boliviana](https://www.upb.edu/)
 <!--
 **mateopuna98/mateopuna98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
