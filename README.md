@@ -8,9 +8,9 @@
 ## What's up? 👋
 
 
-* I am a software engineer with 5 years of experience,  passionate for Software Architecture. 
+* I am an experienced backend engineer,  passionate for infrastructure, cost optimization and building stuff from scratch. 
 
-* I love entrepreneurship, art and philosophy.
+* I love art, philosophy and business.
 
 * I am building the best community for Latam developers called Code Agora.
 
