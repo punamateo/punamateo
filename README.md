@@ -8,7 +8,9 @@
 ## What's up? 👋
 
 
-* I am an experienced backend engineer,  passionate for infrastructure, cost optimization and building stuff from scratch. 
+* I have 5 years of experience working with Harvard, MIT alumni founded startups.
+  
+* I am experienced backend engineer,  passionate for infrastructure, cost optimization and building stuff from scratch. 
 
 * I love art, philosophy and business.
 
