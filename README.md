@@ -1,5 +1,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-punamateo-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/punamateo/)
 
+[![YouTube](https://img.shields.io/badge/YouTube-Archi.Enemigo-red?style=flat-square&logo=youtube)](https://www.youtube.com/@archi.enemigo)
+
 ## What's up? 👋
 
 
