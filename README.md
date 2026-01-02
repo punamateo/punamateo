@@ -9,11 +9,11 @@
   
 * I am experienced backend engineer,  passionate for infrastructure, cost optimization and building stuff from scratch. 
 
-* I love art, philosophy and business.
+* I am passionate about art, the future of Software Engineering and Tech Startups in Latam
 
-* I am building the best community for Latam developers called Code Agora.
+* I host weekly events in my free community [Dev Remoto Simple](https://www.devremotosimple.com/)
 
-* I am from Bolivia :bolivia: and I graduated with honors from [Universidad Privada Boliviana](https://www.upb.edu/)
+* I am from Bolivia! Happy to chat about Latin American politics and idiosincracy :bolivia:
 <!--
 **mateopuna98/mateopuna98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
