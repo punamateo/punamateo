@@ -1,17 +1,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-punamateo-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/punamateo/)
 
-[![YouTube](https://img.shields.io/badge/YouTube-Archi.Enemigo-red?style=flat-square&logo=youtube)](https://www.youtube.com/@archi.enemigo)
-
 ## What's up? 👋
 
 
-* I have 5 years of experience working with Harvard, MIT alumni founded startups.
+* 6 years of experience as a developer, focusing on Python, Node.JS and JavaScript backend
   
-* I am experienced backend engineer,  passionate for infrastructure, cost optimization and building stuff from scratch. 
+* 0-1 building nerd.
 
 * I am passionate about art, the future of Software Engineering and Tech Startups in Latam
 
-* I host weekly events in my free community [Dev Remoto Simple](https://www.devremotosimple.com/)
+* I host weekly events in my free community [Dev Remoto Simple](https://www.devremotosimple.com/). We just closed 400 members!
 
 * I am from Bolivia! Happy to chat about Latin American politics and idiosincracy :bolivia:
 <!--
