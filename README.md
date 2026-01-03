@@ -1,7 +1,21 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-punamateo-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/punamateo/)
 
-## What's up? 👋
+<h1>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+  Hey!
+  I'm MVP Builder Mateo - Hola!
+</h1>
 
+
+## 🔧 Technologies & Tools
+
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ff69b4)
+![Antigravity](https://img.shields.io/badge/IDE-Visual%20Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=ff69b4)
+![JavaScript](https://img.shields.io/badge/Tools-pytest-informational?style=flat&logo=pytest&logoColor=white&color=ff69b4)
+![AWS](https://img.shields.io/badge/Tools-selenium-informational?style=flat&logo=selenium&logoColor=white&color=ff69b4)
+
+## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white&color=229ED9)]((https://www.linkedin.com/in/punamateo/)
 
 * 6 years of experience as a developer, focusing on Python, Node.JS and JavaScript backend
   
