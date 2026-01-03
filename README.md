@@ -10,10 +10,8 @@
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=4b8bbe)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=f0db4f)
-
 ![Static Badge](https://img.shields.io/badge/IDE-Antigravity-blue)
-![JavaScript](https://img.shields.io/badge/Tools-pytest-informational?style=flat&logo=pytest&logoColor=white&color=ff69b4)
-![AWS](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=aws&logoColor=white&color=ff69b4)
+
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Connect With Me
 
