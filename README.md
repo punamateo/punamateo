@@ -8,7 +8,7 @@
 
 ## 🔧 Technologies & Tools
 
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=ff69b4)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=4b8bbe)
 ![Static Badge](https://img.shields.io/badge/IDE-Antigravity-blue)
 ![JavaScript](https://img.shields.io/badge/Tools-pytest-informational?style=flat&logo=pytest&logoColor=white&color=ff69b4)
 ![AWS](https://img.shields.io/badge/Tools-selenium-informational?style=flat&logo=selenium&logoColor=white&color=ff69b4)
