@@ -11,7 +11,7 @@
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=4b8bbe)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=f0db4f)
 
-![Static Badge](https://img.shields.io/badge/IDE-Antigravity-blue)
+![Static Badge](https://img.shields.io/badge/IDE-Antigravity&color=4585f4)
 ![JavaScript](https://img.shields.io/badge/Tools-pytest-informational?style=flat&logo=pytest&logoColor=white&color=ff69b4)
 ![AWS](https://img.shields.io/badge/Tools-selenium-informational?style=flat&logo=selenium&logoColor=white&color=ff69b4)
 
