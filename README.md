@@ -5,13 +5,15 @@
   I'm MVP Builder Mateo - Hola!
 </h1>
 
+## 🏗️ My Projects 
+
+[Dev Remoto Simple](https://www.devremotosimple.com/) - Tech Community for building global things from Latam
 
 ## 🔧 Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=4b8bbe)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=f0db4f)
 ![Static Badge](https://img.shields.io/badge/IDE-Antigravity-blue)
-
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Connect With Me
 
@@ -23,7 +25,6 @@
 
 * I am passionate about art, the future of Software Engineering and Tech Startups in Latam
 
-* I host weekly events in my free community [Dev Remoto Simple](https://www.devremotosimple.com/). We just closed 400 members!
 
 * I am from Bolivia! Happy to chat about Latin American politics and idiosincracy :bolivia:
 <!--
