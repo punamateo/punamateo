@@ -11,8 +11,8 @@
 
 ## 🔧 Technologies & Tools
 
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=4b8bbe)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=f0db4f)
+![Python](https://img.shields.io/badge/Python-FastAPI-informational?style=flat&logo=python&color=4b8bbe)
+![JavaScript](https://img.shields.io/badge/JavaScript-NodeJS-informational?style=flat&logo=javascript&color=f0db4f)
 ![Static Badge](https://img.shields.io/badge/IDE-Antigravity-blue)
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Connect With Me
