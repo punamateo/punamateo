@@ -18,6 +18,8 @@
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/punamateo/)](https://www.linkedin.com/in/punamateo/)
+[![GitHub Mateo](https://img.shields.io/github/followers/punamateo?label=follow&style=social)](https://github.com/punamateo)
+
 
 * 6 years of experience as a developer, focusing on Python, Node.JS and JavaScript backend
   
