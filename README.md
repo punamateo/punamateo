@@ -7,7 +7,8 @@
 
 ## 🏗️ My Projects 
 
-[Dev Remoto Simple](https://www.devremotosimple.com/) - Tech Community for building global things from Latam
+[Dev Remoto Simple](https://www.devremotosimple.com/) - Tech Community for building global things from Latam [Website Status](https://img.shields.io/website?url=https%3A%2F%2Fdevremotosimple.com
+)
 
 ## 🔧 Technologies & Tools
 
