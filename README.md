@@ -2,10 +2,12 @@
 <h1>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
   Hola!
-  I'm MVP Builder Mateo
+  I'm Mateo.
 </h1>
 
-## 🏗️ My Projects 
+## 🏗️ My Software Projects 
+
+## 🌐 My Social Media Projects
 
 [Dev Remoto Simple](https://www.devremotosimple.com/) - Tech Community for building global things from Latam ![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fdevremotosimple.com
 )
