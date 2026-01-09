@@ -2,12 +2,13 @@
 <h1>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
   Hola!
-  I'm Mateo.
+  I'm Mateo. 
 </h1>
 
 ## 🏗️ My Software Projects 
 
 [EasySpec](https://github.com/punamateo/easySpec) - The FullStack Spec Driven Development Framework
+[AI Clone] () - A genAI infra that allows me to save 100+ hours on content creation
 
 ## 🌐 My Social Media Projects
 
