@@ -7,7 +7,7 @@
 
 ## 🏗️ My Software Projects 
 
-EasySpec - The FullStack Spec Driven Development Framework
+[EasySpec](https://github.com/punamateo/easySpec) - The FullStack Spec Driven Development Framework
 
 ## 🌐 My Social Media Projects
 
