@@ -5,6 +5,8 @@
   I'm Mateo. 
 </h1>
 
+I am passionate with the evolution of Human-Computer interaction with AI. 
+
 ## 🏗️ My Software Projects 
 
 [EasySpec](https://github.com/punamateo/easySpec) - The FullStack Spec Driven Development Framework
