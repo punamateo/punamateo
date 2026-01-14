@@ -10,9 +10,10 @@ I am passionate with the evolution of Human-Computer interaction with AI.
 ## 🏗️ My Software Projects 
 
 [EasySpec](https://github.com/punamateo/easySpec) - The FullStack Spec Driven Development Framework
-[AI Clone] () - A genAI infra that allows me to save 100+ hours on content creation
-[Something Artsy] () - A beautiful SaaS B2c that allow non-artists express their feelings easily. The moat is not the technique but your expresiveness.
-[Something for DRS] () -  A job board that allows you to get the best job offers, provides salary transparency and helps you with job search advice an AI tools.
+
+[AI Clone] (aiclone.com) - A genAI infra that allows me to save 100+ hours on content creation
+[Something Artsy] (somethingartsy.com) - A beautiful SaaS B2c that allow non-artists express their feelings easily. The moat is not the technique but your expresiveness.
+[Something for DRS] (devremotosimple.com) -  A job board that allows you to get the best job offers, provides salary transparency and helps you with job search advice an AI tools.
 
 ## 🌐 My Social Media Projects
 
