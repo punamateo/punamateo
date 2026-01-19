@@ -5,7 +5,8 @@
   I'm Mateo. 
 </h1>
 
-I am passionate with the evolution of Human-Computer interaction with AI. 
+I am passionate with the evolution of Human-Computer interaction with AI. I have 6 years of experience as a developer, focusing on Python, Node.JS and JavaScript backend.
+
 
 ## 🏗️ My Software Projects 
 
@@ -34,14 +35,7 @@ I am passionate with the evolution of Human-Computer interaction with AI.
 [![GitHub Mateo](https://img.shields.io/github/followers/punamateo)](https://github.com/punamateo)
 
 
-* 6 years of experience as a developer, focusing on Python, Node.JS and JavaScript backend
   
-* 0-1 building nerd.
-
-* I am passionate about art, the future of Software Engineering and Tech Startups in Latam
-
-
-* I am from Bolivia! Happy to chat about Latin American politics and idiosincracy :bolivia:
 <!--
 **mateopuna98/mateopuna98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
