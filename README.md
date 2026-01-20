@@ -29,11 +29,11 @@ I am passionate with the evolution of Human-Computer interaction with AI. I have
 ![JavaScript](https://img.shields.io/badge/JavaScript-NodeJS-informational?style=flat&logo=javascript&color=f0db4f)
 ![Static Badge](https://img.shields.io/badge/IDE-Antigravity-blue)
 
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Connect With Me
+## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Me in the internet
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/punamateo/)](https://www.linkedin.com/in/punamateo/)
 [![GitHub Mateo](https://img.shields.io/github/followers/punamateo)](https://github.com/punamateo)
-
+![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)(https://mateopuna.substack.com)
 
   
 <!--
