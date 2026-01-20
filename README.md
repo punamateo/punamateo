@@ -18,7 +18,7 @@ I am passionate with the evolution of Human-Computer interaction with AI. I have
 
 [Something for DRS](https://devremotosimple.com) -  A job board that allows you to get the best job offers, provides salary transparency and helps you with job search advice an AI tools.
 
-## 🌐 My Social Media Projects
+## 🌐 My Tech Community projects
 
 [Dev Remoto Simple](https://www.devremotosimple.com/) - Tech Community for building global things from Latam ![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fdevremotosimple.com
 ) Largest Tech community in Bolivia!
