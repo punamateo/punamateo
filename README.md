@@ -14,9 +14,8 @@ I am passionate with the evolution of Human-Computer interaction with AI. I have
 
 [AI Clone](https://aiclone.com) - A genAI infra that allows me to save 100+ hours on content creation
 
-[Something Artsy](https://somethingartsy.com) - A beautiful SaaS B2c that allow non-artists express their feelings easily. The moat is not the technique but your expresiveness.
+[Self-evolving product](https://somethingartsy.com) - A testament of the future of frontend with self-evolving UI
 
-[Something for DRS](https://devremotosimple.com) -  A job board that allows you to get the best job offers, provides salary transparency and helps you with job search advice an AI tools.
 
 ## 🌐 My Tech Community projects
 
