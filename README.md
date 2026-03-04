@@ -7,20 +7,29 @@
 
 I am passionate with the evolution of Human-Computer interaction with AI. I have 6 years of experience as a developer, focusing on Python, Node.JS and JavaScript backend.
 
+Currently grinding leetcode!
 
-## 🏗️ My Software Projects 
 
-[EasySpec](https://github.com/punamateo/easySpec) - The FullStack Spec Driven Development Framework
+<!--## 🏗️ My Software Projects -->
 
-[AI Clone](https://aiclone.com) - A genAI infra that allows me to save 100+ hours on content creation
+<!-- [EasySpec](https://github.com/punamateo/easySpec) - The FullStack Spec Driven Development Framework -->
 
-[Self-evolving product](https://somethingartsy.com) - A testament of the future of frontend with self-evolving UI
+<!--[AI Clone](https://aiclone.com) - A genAI infra that allows me to save 100+ hours on content creation -->
+
+<!--[Self-evolving product](https://somethingartsy.com) - A testament of the future of frontend with self-evolving UI -->
 
 
 ## 🌐 My Tech Community projects
 
-[Dev Remoto Simple](https://www.devremotosimple.com/) - Tech Community for building global things from Latam ![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fdevremotosimple.com
-) Largest Tech community in Bolivia!
+[Dev Remoto Simple](https://www.devremotosimple.com/) - Tech Community for building global things from Latam. 2k members ![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fdevremotosimple.com)
+
+We have hosted 50-100 people events with:
+
+* Global Node.js maintainers
+* Ex-Harvard Founders
+* US Investment funds
+
+Going strong! ![Join](https://chat.whatsapp.com/I28KiCgdRv43fpNQTWpjFK?mode=gi_t)
 
 ## 🔧 Technologies & Tools
 
