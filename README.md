@@ -29,7 +29,7 @@ We have hosted 50-100 people events with:
 * Ex-Harvard Founders
 * US Investment funds
 
-Going strong! ![Join](https://chat.whatsapp.com/I28KiCgdRv43fpNQTWpjFK?mode=gi_t)
+Going strong! [Join](https://chat.whatsapp.com/I28KiCgdRv43fpNQTWpjFK?mode=gi_t)
 
 ## 🔧 Technologies & Tools
 
