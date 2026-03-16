@@ -20,7 +20,7 @@ I am a Founding Engineer at [Gen.ui.s](https://genuis.design), where we are buil
 
 ## 🌐 My Tech Community projects
 
-[Dev Remoto Simple](https://www.devremotosimple.com/) - Tech Community for building global things from Latam. 2k members ![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fdevremotosimple.com)
+[Dev Remoto Simple](https://www.devremotosimple.com/) - Tech Community for building global things from Latam. 1k members ![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fdevremotosimple.com)
 
 We have hosted 50-100 people events with:
 
