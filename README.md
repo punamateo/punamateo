@@ -7,7 +7,7 @@
 
 I am passionate with the how products are evolving with AI. I have 6 years of experience as a developer, focusing on Python, Node.JS and JavaScript backend.
 
-I am a Founding Engineer at [Gen.ui.s](genuis.design), where we are building the evolution of Design Systems with AI. Built it from scratch, reaching 4k users in a month.
+I am a Founding Engineer at [Gen.ui.s](https://genuis.design), where we are building the evolution of Design Systems with AI. Built it from scratch, reaching 4k users in a month.
 
 <!--## 🏗️ My Software Projects -->
 
