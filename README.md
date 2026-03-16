@@ -5,10 +5,9 @@
   I'm Mateo. 
 </h1>
 
-I am passionate with the evolution of Human-Computer interaction with AI. I have 6 years of experience as a developer, focusing on Python, Node.JS and JavaScript backend.
+I am passionate with the how products are evolving with AI. I have 6 years of experience as a developer, focusing on Python, Node.JS and JavaScript backend.
 
-Currently grinding leetcode!
-
+I am a Founding Engineer at [genuis.design](genuis.design), where we are building the evolution of Design Systems with AI. Built it from scratch, reaching 4k users in a month.
 
 <!--## 🏗️ My Software Projects -->
 
