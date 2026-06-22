@@ -7,7 +7,8 @@
 
 I am passionate with the how products are evolving with AI. I have 6 years of experience as a developer, focusing on Python, Node.JS and JavaScript backend.
 
-I am a Founding Engineer at [Gen.ui.s](https://genuis.design), where we are building the evolution of Design Systems with AI. Built it from scratch, reaching 4k users in a month.
+Currently working at [Eden](https://edenmed.com/), building foundational VLLMs for medicine and scaling our PACS-RIS for 1 million daily users and 3000 hospitals. 
+
 
 <!--## 🏗️ My Software Projects -->
 
